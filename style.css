@@ -6,6 +6,17 @@
     font-weight: 400;
     font-style: normal;
   }
+/* shared styles */
+  .display_flex{
+    display: flex;
+  }
 
-  
-  
+/* header styles */
+
+
+/* nav styles */
+
+  .nav_item{
+    list-style: none;
+    margin-right: 20px;
+  }
