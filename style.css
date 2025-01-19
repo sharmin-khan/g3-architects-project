@@ -216,6 +216,16 @@ main>section {
 .sponsor_companies img {
     filter: grayscale(100%);
 }
+/* footer section styles */
+footer{
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 130px;
+}
+.footer_copyright{
+    text-align: center;
+    padding: 40px 140px;
+}
 
 /* Responsive media query */
 @media screen and (max-width: 576px) {
